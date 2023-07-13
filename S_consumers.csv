@@ -1,0 +1,5 @@
+consumer_id,consumer_name,consumer_email,segment
+1,John,john@gmail.com,segment_A
+2,Mary,mary@gmail.com,segment_B
+3,Tom,tom@gmai.com,segment_A
+4,Wilson,wilson@gmail.com,segment_C

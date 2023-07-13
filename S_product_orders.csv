@@ -1,0 +1,4 @@
+order_id,product_id,consumer_id,order_satisfaction_rate,order_date
+1,51,21,9,5/5/2023
+2,52,22,6,5/25/2023
+3,53,33,10,6/23/2023

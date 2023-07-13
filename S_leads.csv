@@ -1,0 +1,5 @@
+lead_id,name,source,status,criteria_id
+1,John,website,generated,3
+2,Mary,referral,generated,1
+3,Tom,website,qualified,3
+4,Wilson,website,generated,2

@@ -1,0 +1,5 @@
+start_date,ad_account_name,ad_campaign_id,ad_campaign_name,ad_group_id,ad_group,ad_id,ad_name,country,ad_network,spend,impressions,clicks,purchases,conversions
+3/1/2023,David,ad_c1,Unlock Your Potential,group_1,Product Showcase,ad_1,Unleash Your Potential Today!,Canada,Amazon Advertising,2000,1000,100,19,25
+3/2/2023,John,ad_c2,Revolutionize Your Style,group_2,Special Offers,ad_2,Limited Time Offer: Save Big!,Australia,Google Ads,4000,2000,400,38,40
+3/3/2023,Mary,ad_c3,Inspire Your Future,group_1,Lifestyle Segments,ad_3,Master Your Photography Skills,Canada,Twitter Ads,3000,1300,200,30,35
+3/3/2023,Jeffery,ad_c4,Capture the Moment,group_3,Brand Awareness,ad_4,Experience the Ultimate Relaxation,USA,Youtube Ads,5000,2300,530,80,65

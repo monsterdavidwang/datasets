@@ -1,0 +1,9 @@
+invoice_id,order_id,order_date,consumer_id,amount,status,payment_method
+inv_001,odr_001,2/3/2022,1,700,paid,Bank Transfer
+inv_002,odr_002,4/2/2022,2,630,paid,CryptoCurrency
+inv_003,odr_003,5/6/2022,3,900,paid,Bank Transfer
+inv_004,odr_004,6/1/2022,4,1200,paid,Master Card
+inv_005,odr_005,8/3/2022,2,800,paid,Bank Transfer
+inv_006,odr_006,9/3/2022,1,900,paid,CryptoCurrency
+inv_007,odr_007,1/6/2023,3,1000,paid,CryptoCurrency
+inv_008,odr_008,2/1/2023,4,2000,paid,Master Card

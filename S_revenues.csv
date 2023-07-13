@@ -1,0 +1,5 @@
+revenue_id,date,amount,employee_id,source
+1,6/2/2023,500,1,Sales
+2,6/11/2023,400,2,Sales
+3,6/24/2023,300,1,Services
+4,7/1/2023,600,2,Promotions

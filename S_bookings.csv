@@ -1,0 +1,4 @@
+booking_id,booking_target,consumer_id,booking_satisfaction_rate,booking_date
+1,hotel_1,101,9,5/1/2023
+2,hotel_2,102,10,6/11/2023
+3,restaurant_1,103,6,6/23/2023

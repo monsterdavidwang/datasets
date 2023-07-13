@@ -1,0 +1,5 @@
+order_id,order_date,ad_id,financial_status,fulfillment_status,product,vendor,tags,return_date,tracking_number,customer_id,customer_name,customer_email,customer_signup_date,discount,taxes,shipping,revenue
+1,3/6/2023,ad_1,paid,shipping,laptop,lenovo,tag_1,None,tracking_1,user_1,John,john@gmail.com,6/15/2020,9.9,4,20,800
+2,3/8/2023,ad_1,paid,shipping,HDTV,Haier,tag_2,None,tracking_2,user_2,Malcom,malcom@gmail.com,8/11/2021,19.9,4,20,1000
+3,3/9/2023,ad_2,paid,shipping,Tennis Racket,Wilson,tag_3,None,tracking_3,user_3,Angella,angel@gmail.com,7/20/2020,9.9,4,20,300
+4,3/10/2023,ad_3,paid,shipping,Camera,Sony,tag_4,None,tracking_4,user_4,Cohen,cohen@gmail.com,3/25/2022,3.9,4,20,400
